@@ -4,9 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/pocketbase_0.8.0_windows_amd64
 # testing
 /coverage
+*.db
 
 # next.js
 /.next/
